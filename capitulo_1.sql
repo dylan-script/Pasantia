@@ -1,0 +1,15 @@
+INSERT INTO articulo( Capitulo, Articulo, Titulo, Numeral, Keyword, Descripcion) 
+VALUES 
+('I',1,'Formación profesional integral.',1,'1','La formación profesional que imparte el SENA, constituye un proceso educativo teórico-práctico de carácter integral, orientado al desarrollo de conocimientos técnicos, tecnológicos y de actitudes y valores para la convivencia social, que le permiten a la persona actuar crítica y creativamente en el mundo del trabajo y de la vida.'),
+
+ ('I',2,'Comunidad educativa SENA.',1,'1','En la Formación Profesional Integral participan diferentes actores, cada uno de los cuales conoce y ejerce su rol dentro del proceso de formación profesional integral en el diseño, desarrollo y ejecución de la misma, entre los cuales están: los aprendices, instructores, personal administrativo y de apoyo, directivos y por extensión dentro del proceso formativo, la familia o acudientes, egresados, gremios de la producción, empresarios, instituciones educativas y representantes de los trabajadores, de los sectores económicos, la sociedad y del sistema nacional de ciencia, tecnología e innovación así como cooperantes internacionales.'),
+
+ ('I',3,'Aprendiz SENA.',1,'1','Se considera Aprendiz SENA a toda persona matriculada en los programas de formación profesional de la entidad, en cualquier tipo de formación: Titulada o Complementaria, desde las diferentes modalidades Presencial, Virtual y a Distancia, que apropia, responsablemente competencias de manera integral que lo forman para contribuir al desarrollo personal, social y del mundo del trabajo, soportado en los valores morales, éticos culturales y ecológicos.
+El Aprendiz SENA es protagonista de su formación profesional integral, que se desarrolla a lo largo de la etapa lectiva y de la etapa productiva, en el caso de la formación titulada, en cualquiera de sus modalidades de formación y según los procedimientos institucionales.'),
+
+('I',4,'Cumplimiento de principios y valores.',1,'1','El aprendiz y demás miembros de la comunidad SENA deberán respetar los principios y valores institucionales que regulan y hacen posible la convivencia de los miembros del Centro de Formación.'),
+
+('I',5,'Centros de convivencia.',1,'1','El Centro de Formación Profesional que tenga el servicio de Centros de Convivencia para aprendices tendrá disposiciones específicas inscritas en el ámbito del presente Reglamento.'),
+
+('I',6,'Alcance.',1,'1','Este reglamento aplica para el aprendiz SENA en todas las sedes, jornadas, niveles, modalidades y tipos de formación, incluyendo las realizadas en el marco de convenios. Se extiende a los lugares en los que el aprendiz está en representación de la institución o mientras porta el uniforme institucional.
+Por tanto, las disposiciones que se generen para el aprendiz en ambientes específicos, han de ser acordes con este reglamento.'),
